@@ -35,8 +35,4 @@ Between 10 and 15 minutes away from site are the following chains:
 
 # Parking
 
-If you are travelling by car then it is recommended to use JustPark to find a cheap parking spot within a reasonable wlking distance of the venue.
-
- [JustPark](https://www.justpark.com/)
-
-It should be possible to park for both days for less than £10 if you book quickly!
+If you are travelling by car then it is recommended to use [JustPark](https://www.justpark.com/) to find a cheap parking spot within a reasonable walking distance of the venue. It should be possible to park for both days for less than £10 if you book quickly!
