@@ -19,9 +19,26 @@ Below is a map with highlights of the important locations for OggCamp 17.
 
 ---
 
+# Social Events
+
+## Friday, 18 August
+
+We are meeting on Friday from 7pm in *"The Ballroom"* in Orange Street [[Map](http://w3w.co/turns.agents.props)] for pre-conference drinks. The Ballroom does not serve food, but there are plenty of options in the area (also see below).
+
+## Saturday, 19 August
+
+The Saturday night social will be in *"The Lounge"*, CCCU's Student Union bar, in the same building as the official accommodation [[Map](http://w3w.co/gone.vest.cheat)], again from 7pm. Food is available at the venue.
+
 # Refreshments on the days
 
-On-Site is the University Food Court [[Map](http://w3w.co/transfers.foster.traded)] where you can get meals from around £5 (depending on staff availability - more details closer to the event)
+On-Site is the University Food Court [[Map](http://w3w.co/transfers.foster.traded)] where you can get meals from around £5. The food court will be open on both Saturday and Sunday.
+
+Good restaurants in the area are:
+* Azouma (nice Middle Eastern food) [[Map](http://w3w.co/arch.ties.camp)]
+* Chom Chom (Asian fusion) [[Map](http://w3w.co/author.effort.trend)]
+* La Trappiste (Belgian food and beer) [[Map](http://w3w.co/fever.always.custom)]
+* The Dolphin (Pub with beer garden and good food) [[Map](http://w3w.co/trash.grows.agents)]
+* Club Burrito (Mexican fast food) [[Map](http://w3w.co/card.trend.toxic)]
 
 Between 10 and 15 minutes away from site are the following chains:
 * Subway [[Map](http://w3w.co/courier.bucks.hired)]
