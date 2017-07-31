@@ -39,7 +39,7 @@ packaging, marketing, ambassadors and artwork.
 ---
 Saturday, Slot 5
 
-# Make things open, it makes things better (which is the standard GDS mantra)
+# Make things open, it makes things better
 ## Liz Lutgendorff from GDS
 ![Liz Lutgendorff from GDS]({{ site.url }}/assets/img/speakers/LizLutgendorff.jpg)
 
