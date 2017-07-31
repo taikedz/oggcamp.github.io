@@ -53,3 +53,9 @@ Between 10 and 15 minutes away from site are the following chains:
 # Parking
 
 If you are travelling by car then it is recommended to use [JustPark](https://www.justpark.com/) to find a cheap parking spot within a reasonable walking distance of the venue. It should be possible to park for both days for less than £10 if you book quickly!
+
+Canterbury also has Park and Ride facilities [[Link](https://www.canterbury.gov.uk/parking-travel-roads/park-and-ride/)]. For £3 per day, you can park outside the city centre [[here](http://w3w.co/shells.piles.chefs) or [[here](http://w3w.co/froth.spoon.final)] and take a bus to the bus station, which is less than 5 minutes away from the accommodation and less than 10 minutes away from the venue.
+
+# Public Transport
+
+Canterbury is very well connected to London. The quickest way is via the High Speed Train from St Pancras International (to Canterbury West, ca 55 min + 20 minutes walking), but you can also reach it via a slightly slower train from Victoria (to Canterbury East, ca 1:30h + 10 minutes walking) or, if you are on a budget, via the 007 or 022 National Express Coach from Victoria Coach Station.
