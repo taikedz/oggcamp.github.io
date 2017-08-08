@@ -59,4 +59,3 @@ The Saturday night social will be in *"The Lounge"*, CCCU's Student Union bar, i
 
 ### Evening
 Those of us who are staying around on the Sunday evening will probably go for informal drinks, and a venue to be decided on the day.
-
