@@ -18,8 +18,8 @@ We are meeting on Friday from 7pm in *"The Ballroom"* in Orange Street [[Map](ht
   <tbody>
     <tr><td>9:30</td><td colspan="3" class="info">Doors Open</td></tr>
     <tr><td>10:30</td><td>Welcome talk</td><td colspan="2"></td></tr>
-    <tr><td>11:00</td><td rowspan="2">Exploits and our digital rights</td><td colspan="2">Unconference</td></tr>
-    <tr><td>11:30</td><td colspan="2">Unconference</td></tr>
+    <tr><td>11:00</td><td>Exploits and our digital rights</td><td colspan="2">Unconference</td></tr>
+    <tr><td>11:30</td><td colspan="3">Unconference</td></tr>
     <tr><td>12:00</td><td rowspan="2">The openSUSE Project - Contributing, Offerings, Governance and Organisation</td><td colspan="2">Unconference</td></tr>
     <tr><td>12:30</td><td colspan="2">Unconference</td></tr>
     <tr><td>13:00</td><td class="info" colspan="3">Lunch</td></tr>
