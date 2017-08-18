@@ -47,7 +47,7 @@ The Saturday night social will be in *"The Lounge"*, CCCU's Student Union bar, i
     <tr><td>10:45</td><td>Welcome (back) talk</td><td colspan="2"></td></tr>
     <tr><td>11:00</td><td rowspan="2" colspan="3">Unconference</td></tr>
     <tr><td>11:30</td></tr>
-    <tr><td>12:00</td><td>Matrix.org</td><td colspan="2">Unconference</td></tr>
+    <tr><td>12:00</td><td>Introduction to all things Matrix!</td><td colspan="2">Unconference</td></tr>
     <tr><td>12:30</td><td colspan="3">Unconference</td></tr>
     <tr><td>13:00</td><td colspan="3" class="info">Lunch</td></tr>
     <tr><td>14:00</td><td>Building an Internet of Things Network Together</td><td colspan="2">Unconference</td></tr>

@@ -59,10 +59,11 @@ The only rule in the Lightning talks is: 5 minutes, 1 question. No more, no less
 ---
 Saturday, Slot 3 and 4
 
-# Matrix.org
-## Someone from the Matrix.org Team
+# Introduction to all things Matrix!
+## Matthew Hodgson from New Vector
+![Matthew Hodgson from New Vector]({{ site.url }}/assets/img/speakers/matthew.jpg)
 
-There are currently no firm details on who will be attending from Matrix.org, nor are there any firm details about what the subject will exactly be. BUT there will be someone from Matrix.org explaining what it is, and why it's awesome.
+This talk explains all the latest and greatest details of the Matrix open ecosystem for decentralised encrypted communication.
 
 ---
 Sunday, Slot 5
