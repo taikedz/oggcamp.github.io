@@ -2,7 +2,7 @@
 layout: default
 title: Merchandise
 ---
-If you missed out on OggCamp 17 in Canterbury, you can still complete your OggCamp merchandise collection!  We have a very limited stock of mugs, t-shirts and stickers for sale.  A bundle with one of each will cost you just £15 including postage (UK only).  Just select your fit and size below for the t-shirt size you want and pay via PayPal (credit/debit cards are accepted if you don't have an account).  All proceeds go towards funding future OggCamps!
+If you missed out on OggCamp 17 in Canterbury, you can still complete your OggCamp merchandise collection!  We have a very limited stock of mugs, t-shirts and stickers for sale.  A bundle with one of each will cost you just £15 including postage (UK only*).  Just select your fit and size below for the t-shirt size you want and pay via PayPal (credit/debit cards are accepted if you don't have an account).  All proceeds go towards funding future OggCamps!
 
 <img src="../files/merch.jpg" alt="OggCamp merchandise bundle"/>
 
@@ -25,3 +25,5 @@ If you missed out on OggCamp 17 in Canterbury, you can still complete your OggCa
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 Stocks of each size are limited, so if you get a "Sold out" message, please try another size!
+
+* If you are outside the UK and would like to buy a bundle, send a message to our [Telelgram Group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A) letting us know where you are, and we'll look into postage costs.
