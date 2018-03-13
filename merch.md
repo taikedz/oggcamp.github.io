@@ -26,4 +26,4 @@ If you missed out on OggCamp 17 in Canterbury, you can still complete your OggCa
 </form>
 Stocks of each size are limited, so if you get a "Sold out" message, please try another size!
 
-* If you are outside the UK and would like to buy a bundle, send a message to our [Telelgram Group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A) letting us know where you are, and we'll look into postage costs.
+\*If you are outside the UK and would like to buy a bundle, send a message to our [Telelgram Group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A) letting us know where you are, and we'll look into postage costs.
