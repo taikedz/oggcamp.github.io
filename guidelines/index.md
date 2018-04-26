@@ -35,3 +35,28 @@ If you're planning to demonstrate a system, it may be advisable to video the dem
 There will be a session for Lighting talks again this year.  In the past we've had great speed presentations on everything from automated GUI testing, to political activism, to [how the Internet was built](http://www.nathandumont.com/blog/this-jen-is-the-internet).
 
 Lightning Talks will be strictly 5 minutes long, and you'll be allowed to take 1 question at the end.  Details of submitting a Lightning Talk will be given on the day.
+
+## Talk Ideas
+
+If you're looking for ideas on talks to propose, some of our talks in prior years include:
+
+* Being a geek in Normal Culture
+* Pi Wheels
+* Make things open, it makes things better
+* Building a LED Disco Dance Floor
+* Playstation Game Translation Japanese to English
+* Building an Internet of Things Network Together
+* Three ways to improve cat videos with the open web
+* Publishing your Podcast
+* How to sell a whole country on Open Source
+* Ansible - Configuration Management for the masses
+* ZFS - Why I trust it with all my data
+* How to blame your genes with confidence
+* Law is code, Parliament is Programmers
+* What should I be doing now I am a digital leader at school?
+* Open hardware - Dithing the lawyers so you can get on with making stuff
+* Cross-platform App Development
+* The evolution of Social Coding
+* Inside the Intercontinental Music Lab
+* Why I rob banks and why YOU should be scared
+* Oolite - A fun way to get involved in FOSS
