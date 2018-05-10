@@ -8,7 +8,7 @@ title: Venue
 
 OggCamp 18 is taking place in the Charles Street building at the city campus of Sheffield Hallam University, right in the heart of Sheffield.
 
-The full postal address is: <a href="https://map.what3words.com/grapes-drill-opens">Charles Street Building, Sheffield Hallam University, Sheffield, S1 2ND</a>.
+The full postal address is: <a href="https://map.what3words.com/grapes.drill.opens">Charles Street Building, Sheffield Hallam University, Sheffield, S1 2ND</a>.
 
 More details will follow as the event approaches.
 
