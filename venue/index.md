@@ -2,16 +2,17 @@
 layout: default
 title: Venue
 ---
-![Canterbury Skyline]({{ site.url }}/files/canterbury-skyline.jpg)
+![Sheffield Hallam University]({{ site.url }}/files/SHU.jpg)
 
-*Photograph by Greg O'Beirne CC-By-SA*
+*Photograph by "LondonMatt" CC-By*
 
-OggCamp 17 is taking place in the Powell building at the main campus of Canterbury Christ Church University, right in the heart of the historic city of Canterbury, Kent.
+OggCamp 18 is taking place in the Charles Street building at the city campus of Sheffield Hallam University, right in the heart of Sheffield.
 
-The full postal address is: <a href="https://map.what3words.com/couch.window.closed">Powell Building, Canterbury Christ Church University, North Holmes Road, Canterbury, CT1 1QU</a>.
+The full postal address is: <a href="https://map.what3words.com/grapes-drill-opens">Charles Street Building, Sheffield Hallam University, Sheffield, S1 2ND</a>.
 
 More details will follow as the event approaches.
 
+<!--
 Below is a map with highlights of the important locations for OggCamp 17.
 <iframe src="http://umap.openstreetmap.fr/en/map/oggcamp17_129448?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=false&amp;searchControl=null&amp;tilelayersControl=false&amp;embedControl=false&amp;datalayersControl=null&amp;onLoadPanel=undefined&amp;captionBar=false&amp;fullscreenControl=true&amp;locateControl=false&amp;measureControl=false&amp;editinosmControl=false#14/51.2791/1.0798" width="100%" height="300px" frameborder="0"></iframe>
 
@@ -59,3 +60,4 @@ Canterbury also has Park and Ride facilities [[Link](https://www.canterbury.gov.
 # Public Transport
 
 Canterbury is very well connected to London. The quickest way is via the High Speed Train from St Pancras International (to Canterbury West, ca 55 min + 20 minutes walking), but you can also reach it via a slightly slower train from Victoria (to Canterbury East, ca 1:30h + 10 minutes walking) or, if you are on a budget, via the 007 or 022 National Express Coach from Victoria Coach Station.
+-->
