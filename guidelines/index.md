@@ -4,6 +4,10 @@ title: Talk Guidelines
 ---
 The unconference talks make OggCamp what it is.  Every year we're amazed by the range of topics and projects presented.  The details below should help you prepare whether you want to give a talk, or just want to watch.
 
+## Scheduled Track
+
+OggCamp has always been an unconference with a single scheduled track that means we can promote certain talks in advance. This year, we're trying a Call For Papers (CFP) system for the scheduled track. If you're interested in proposing a talk for the scheduled track, please [visit the CFP site](https://cfp.oggcamp.org). The call for papers is open until the 16th June. If you're not successful on the CFP, please bring your talk *anyway* as, well, it is also an Unconference!
+
 ## Submitting a Talk
 
 Don't be shy! Talks at OggCamp can be about anything. This includes open source software, hardware hacking, making, science, politics, creative commons music and literature, or anything else you think might interest the community.  Even if  you're not sure it will, you might be surprised to find out there are many people who find your project fascinating!
