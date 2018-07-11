@@ -9,9 +9,8 @@ Here are some details on some of the scheduled speakers we are looking forward t
 Saturday, Slot 1 - 11:00-11:25
 
 # Infrastructure as Cake - Testing Your Configuration Management in the Kitchen, with Sprinkles and Love
-## Jamie Tanna
+## Jamie Tanna [![Twitter Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}{:style="height:36px;width:36px;"}](https://twitter.com/jamietanna)<!-- [![FB Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}{:style="height:36px;width:36px;"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}{:style="height:36px;width:36px;"}](https://linkedin.com/jamietanna) -->
 <!-- ![Jamie Tanna]({{ site.url }}/assets/img/speakers/JamieTanna.jpg) -->
-[![Twitter Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}{:style="height:36px;width:36px;"}](https://twitter.com/jamietanna)<!-- [![FB Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}{:style="height:36px;width:36px;"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}{:style="height:36px;width:36px;"}](https://linkedin.com/jamietanna) -->
 
 Learn about how Configuration Management can be performed in a test-first manner (in these examples) using Chef, in a talk full of food puns. I’ll discuss how investing time into the manner in which your application is deployed is almost as important as the software that is deployed.
 
@@ -21,9 +20,8 @@ Jamie is a Software Engineer 2 at Capital One UK, working on Identity Services. 
 Saturday, Slot 2 - 11:30-11:55
 
 # Fast, Free and Beautiful: Open Source Image Delivery Techniques
-## Doug Sillars
+## Doug Sillars[![Twitter Profile for Doug Sillars]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/dougsillars)<!-- [![FB Profile for Doug Sillars]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Doug Sillars]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/) -->
 <!-- ![Doug Sillars]({{ site.url }}/assets/img/speakers/DougSillars.jpg) -->
-[![Twitter Profile for Doug Sillars]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/dougsillars)<!-- [![FB Profile for Doug Sillars]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Doug Sillars]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/) -->
 
 
 When it comes to the web, the predominate download (in KB) is images. In this talk, we’ll walk through the current state of image optimization, and the free and open source tools available to help your website render quickly and beautifully.
@@ -38,9 +36,8 @@ He is currently freelancing, and traveling with his family of 6 (plus the dog!) 
 Saturday, Slots 3 and 4 - 12:00-12:55
 
 # Running your own mainframe on Linux (for fun and profit)
-## Jeroen Baten
+## Jeroen Baten[![Twitter Profile for Jeroen Baten]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/JeroenBaten)[![Facebook Profile for Jeroen Baten]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://www.facebook.com/jeroen.baten)[![LinkedIn Profile for Jeroen Baten]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://www.linkedin.com/in/jeroenbaten/)
 ![Jeroen Baten]({{ site.url }}/assets/img/speakers/jeroen-hoofd.jpg)
-[![Twitter Profile for Jeroen Baten]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/JeroenBaten)[![Facebook Profile for Jeroen Baten]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://www.facebook.com/jeroen.baten)[![LinkedIn Profile for Jeroen Baten]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://www.linkedin.com/in/jeroenbaten/)
 
 Yes, this talk is about running your own mainframe on your own hardware. Mainframes are old, yes, but they are still very much alive. New hardware is still being developed and there are a lot of fresh jobs in this area too. A lot of mainframes run COBOL workloads. COBOL is far from a dead language. It processes an estimated 85% of all business transactions, and 5 billion lines of new COBOL code are written every year. In this session the speaker will help you in take your first steps towards running your own mainframe. If you like then after this session you can continue to build your knowledge of mainframe systems using the links provided during the talk. Come on in and learn the basics of a completely different computer system! And it will take you less than an hour to do that!
 
@@ -48,9 +45,8 @@ Yes, this talk is about running your own mainframe on your own hardware. Mainfra
 Saturday, Slot 5 - 14:00-14:25
 
 # How to overcome your fears to become a conference speaker
-## Antonio Cobo
+## Antonio Cobo[![Twitter Profile for Antonio Cobo]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/mind_of_ac)<!-- [![FB Profile for Antonio Cobo]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Antonio Cobo]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/) -->
 ![Antonio Cobo]({{ site.url }}/assets/img/speakers/Antonio.jpg)
-[![Twitter Profile for Antonio Cobo]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/mind_of_ac)<!-- [![FB Profile for Antonio Cobo]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Antonio Cobo]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/) -->
 
 Have you ever thought about speaking at a conference? Have you ever wondered how the speakers managed to get into the conference?
 
@@ -73,9 +69,8 @@ Saturday, Slot 6 - 14:30-14:55
 Saturday, Slot 7 - 15:00-15:25
 
 # Technologists of the World Unite. You have nothing to lose but your bosses!
-## Kate Dawson
+## Kate Dawson<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 <!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg) -->
-<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 
 Learn about Cooperative Technologists, and the Co-operative movement
 
@@ -101,9 +96,8 @@ Details to be confirmed
 Sunday, Slot 1 - 11:00-11:25
 
 # Load Balancing 101 & Building a Linux Load Balancer
-## Andrew Howe
+## Andrew Howe<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 <!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg) -->
-<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 
 Part 1: What is a load balancer, and why would you use one? Simple, high level overview Part 1b: How does load balancing work? Technical descriptions · Layer 4 load balancing methods · Layer 7 load balancing
 
@@ -113,9 +107,8 @@ Part 2: Building a Linux load balancer · The building blocks are all there, and
 Sunday, Slot 2 - 11:30-11:55
 
 # Matrix, the year to date
-## Ben Parsons
+## Ben Parsons<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 <!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg) -->
-<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 
 Last year Matthew spoke at Ogg Camp to introduce the technology, we hope (!) it went down well, and certainly received some interest off the back of the talk. Continuing from the talk given last year I'd like to give an update on our progress over the last year
 
@@ -124,9 +117,8 @@ I'd like to talk about the matrix standard, both the technical implementation an
 Sunday, Slot 3 - 12:00-12:25
 
 # Morality and Ethics - Caring is Everything
-## Sam Warner
+## Sam Warner[![Twitter Profile for Sam Warner]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/sjwarner_)<!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) -->[![LinkedIn Profile for Sam Warner]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/samuel-warner/)
 ![Sam Warner]({{ site.url }}/assets/img/speakers/Sam-Warner.jpg)
-[![Twitter Profile for Sam Warner]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/sjwarner_)<!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) -->[![LinkedIn Profile for Sam Warner]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/samuel-warner/)
 
 In software development, caring is everything.
 
@@ -140,9 +132,8 @@ Spoiler: awareness and diversity are key…
 Sunday, Slot 4 - 12:30-12:55
 
 # Error Messages in the wild
-## Mike Hingley
+## Mike Hingley<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 <!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg) -->
-<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 
 I'm interested in error messages that we encounter during our every day life. It used to be that things like billboards and signposts were put up and they'd last until they were posted over. Now billboards are computers - with all the difficulties that computers provide. In my talk I will examine some of the failures that you can encounter in the wild, and some of the issues that error messages displayed to the end user can highlight.
 
@@ -151,9 +142,8 @@ Mike is a software developer now starting to work with NodeJS - having previousl
 Sunday, Slot 5 - 14:00-14:25
 
 # FOSS for kids
-## Chris Zimmermann
+## Chris Zimmermann<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 <!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg) -->
-<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:36px;width:36px;"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:36px;width:36px;"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:36px;width:36px;"}](https://linkedin.com/in/SPEAKER) -->
 
 2018 will be third year where the LUG Frankfurt is cooperating with one of Germany's largest public broadcasters to introduce open source software to children. As part of the highly successful "Show with the Mouse" format (a children's tv show that has been running for the last 46 years), the LUG will host a group of children for a day to learn, use and have fun with open source software.
 
