@@ -22,8 +22,8 @@ Jamie is a Software Engineer 2 at Capital One UK, working on Identity Services. 
 Saturday, Slot 2 - 11:30-11:55
 
 # Fast, Free and Beautiful: Open Source Image Delivery Techniques
-## Doug Sillars[![Twitter Profile for Doug Sillars]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/dougsillars)<!-- [![FB Profile for Doug Sillars]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Doug Sillars]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/) -->
-<!-- ![Doug Sillars]({{ site.url }}/assets/img/speakers/DougSillars.jpg){:style="width:30%"} -->
+## Doug Sillars[![Twitter Profile for Doug Sillars]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/dougsillars)[![FB Profile for Doug Sillars]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/dougsillars)[![LinkedIn Profile for Doug Sillars]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/dougsillars/)
+![Doug Sillars]({{ site.url }}/assets/img/speakers/Doug-Sillars.jpg){:style="width:30%"}
 
 
 When it comes to the web, the predominate download (in KB) is images. In this talk, we’ll walk through the current state of image optimization, and the free and open source tools available to help your website render quickly and beautifully.
