@@ -4,10 +4,10 @@ layout: default
 
 <header>
 	<h1>{{ page.title }}</h1>
-	by 
+	{% if author is defined %}by 
 	{% for author in page.authors %}
 	<author><a href="{{ site.baseurl }}/#{{ author }}">{{ author }}</a></author>{% if forloop.last == false %}, {% endif %}
-	{% endfor %}
+	{% endfor %}{% endif %}
 </header>
 
 {{ content }}
