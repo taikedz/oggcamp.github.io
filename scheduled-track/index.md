@@ -147,8 +147,8 @@ Spoiler: awareness and diversity are key…
 Sunday, Slot 4 - 12:30-12:55
 
 # Error Messages in the wild
-## Mike Hingley<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
-<!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg){:style="width:30%"} -->
+## Mike Hingley[![Github Profile for Mike Hingley]({{ site.url }}/assets/img/icons/github.png){:style="height:20px;width:20px;margin-left:2%"}](https://github.com/computamike) [![Twitter Profile for Mike Hingley]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/computa_mike) [![FB Profile for Mike Hingley]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/computa.mike) [![LinkedIn Profile for Mike Hingley]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/mike-hingley) 
+![Mike Hingley]({{ site.url }}/assets/img/speakers/Mike-Hingley.jpg){:style="width:30%"} 
 
 I'm interested in error messages that we encounter during our every day life. It used to be that things like billboards and signposts were put up and they'd last until they were posted over. Now billboards are computers - with all the difficulties that computers provide. In my talk I will examine some of the failures that you can encounter in the wild, and some of the issues that error messages displayed to the end user can highlight.
 
