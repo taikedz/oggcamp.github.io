@@ -119,12 +119,10 @@ Part 2: Building a Linux load balancer · The building blocks are all there, and
 Sunday, Slot 2 - 11:30-11:55
 
 # Matrix, the year to date
-## Ben Parsons<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
-<!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg){:style="width:30%"} -->
+## Ben Parsons[![Github Profile for Ben Parsons]({{ site.url }}/assets/img/icons/github.png){:style="height:20px;width:20px;margin-left:2%"}](https://github.com/benparsons) [![Twitter Profile for Ben Parsons]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/benparsons)<!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) -->[![LinkedIn Profile for Ben Parsons]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/benparsons/)
+![Ben Parsons]({{ site.url }}/assets/img/speakers/Ben-Parsons.jpg){:style="width:30%"}
 
-Last year Matthew spoke at Ogg Camp to introduce the technology, we hope (!) it went down well, and certainly received some interest off the back of the talk. Continuing from the talk given last year I'd like to give an update on our progress over the last year
-
-I'd like to talk about the matrix standard, both the technical implementation and the reasons for its creation. The talk will also focus on the progress which has been made in the last year toward a getting the specification out of beta, and the growth of the ecosystem.
+Matrix is an open standard for communication over the Internet. I will talk about the matrix standard, both the technical implementation and the reasons for its creation. We will focus on the changes and progress that has been made in the previous year, particularly getting the specification out of beta, and the growth of the ecosystem. Finally, the Matrix environment continues to develop, and we'll look at the roadmap for the future.
 
 ---
 
