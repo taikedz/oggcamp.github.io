@@ -159,8 +159,8 @@ Mike is a software developer now starting to work with NodeJS - having previousl
 Sunday, Slot 5 - 14:00-14:25
 
 # FOSS for kids
-## Chris Zimmermann<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
-<!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg){:style="width:30%"} -->
+## Chris Zimmermann<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) -->[![LinkedIn Profile for Chris Zimmermann]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/dr-christoph-zimmermann-ab48353)
+![SPEAKER]({{ site.url }}/assets/img/speakers/Christoph-Zimmermann.jpg){:style="width:30%"}
 
 2018 will be third year where the LUG Frankfurt is cooperating with one of Germany's largest public broadcasters to introduce open source software to children. As part of the highly successful "Show with the Mouse" format (a children's tv show that has been running for the last 46 years), the LUG will host a group of children for a day to learn, use and have fun with open source software.
 
