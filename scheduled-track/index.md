@@ -150,7 +150,7 @@ Sunday, Slot 4 - 12:30-12:55
 
 I'm interested in error messages that we encounter during our every day life. It used to be that things like billboards and signposts were put up and they'd last until they were posted over. Now billboards are computers - with all the difficulties that computers provide. In my talk I will examine some of the failures that you can encounter in the wild, and some of the issues that error messages displayed to the end user can highlight.
 
-Mike is a software developer now starting to work with NodeJS - having previously been a C&num; developer.
+Mike is a software developer now starting to work with NodeJS - having previously been a C# developer.
 
 ---
 
