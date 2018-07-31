@@ -107,12 +107,14 @@ Details to be confirmed
 Sunday, Slot 1 - 11:00-11:25
 
 # Load Balancing 101 & Building a Linux Load Balancer
-## Andrew Howe<!-- [![Twitter Profile for SPEAKER]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/SPEAKER) --><!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
-<!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg){:style="width:30%"} -->
+## Andrew Howe[![Twitter Profile for Andrew Howe]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/andrewxanadu)<!-- [![FB Profile for Andrew Howe]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for Andrew Howe]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
+<!-- ![Andrew Howe]({{ site.url }}/assets/img/speakers/Andrew-Howe.jpg){:style="width:30%"} -->
 
-Part 1: What is a load balancer, and why would you use one? Simple, high level overview Part 1b: How does load balancing work? Technical descriptions · Layer 4 load balancing methods · Layer 7 load balancing
+What is a load balancer, what does it do, and why would you use one? A basic intro to the principals of load balancing, and an overview of some of the different ways that load balancing can be implemented.
 
-Part 2: Building a Linux load balancer · The building blocks are all there, and are all FLOSS! · Taking care of layer 4 load balancing with LVS in the Linux kernel · Taking care of layer 7 load balancing with HAProxy · Maybe talk about some real world examples and how they are configured and deployed
+There are free and open source building blocks available for making a fully functional load balancer. LVS in the Linux kernel can be used for layer 4 load balancing, and HAProxy can be used for layer 7 load balancing. How these components are used to create a working load balancer will be explained.
+
+Andrew is a Linux and load balancer engineer working at Loadbalancer.org in Portsmouth. He is an advocate of free/libre and open source software, and loves attending FLOSS-related conferences and events.
 
 ---
 
