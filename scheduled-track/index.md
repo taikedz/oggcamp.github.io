@@ -108,7 +108,7 @@ Sunday, Slot 1 - 11:00-11:25
 
 # Load Balancing 101 & Building a Linux Load Balancer
 ## Andrew Howe[![Twitter Profile for Andrew Howe]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/andrewxanadu)<!-- [![FB Profile for Andrew Howe]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for Andrew Howe]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
-<!-- ![Andrew Howe]({{ site.url }}/assets/img/speakers/Andrew-Howe.jpg){:style="width:30%"} -->
+![Andrew Howe]({{ site.url }}/assets/img/speakers/Andrew-Howe.jpg){:style="width:30%"}
 
 What is a load balancer, what does it do, and why would you use one? A basic intro to the principals of load balancing, and an overview of some of the different ways that load balancing can be implemented.
 
