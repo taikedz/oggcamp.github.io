@@ -11,7 +11,7 @@ Saturday, Slot 1 - 11:00-11:25
 
 # Infrastructure as Cake - Testing Your Configuration Management in the Kitchen, with Sprinkles and Love
 ## Jamie Tanna [![Twitter Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/jamietanna)<!-- [![FB Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/) --><!-- [![LinkedIn Profile for Jamie Tanna]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/jamietanna) -->
-<!-- ![Jamie Tanna]({{ site.url }}/assets/img/speakers/JamieTanna.jpg){:style="width:30%"} -->
+![Jamie Tanna]({{ site.url }}/assets/img/speakers/Jamie-Tanna.png){:style="width:30%"}
 
 Learn about how Configuration Management can be performed in a test-first manner (in these examples) using Chef, in a talk full of food puns. I’ll discuss how investing time into the manner in which your application is deployed is almost as important as the software that is deployed.
 
