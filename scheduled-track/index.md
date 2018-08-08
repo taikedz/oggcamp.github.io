@@ -82,7 +82,7 @@ Saturday, Slot 7 - 15:00-15:25
 
 # Technologists of the World Unite. You have nothing to lose but your bosses!
 ## Kate Dawson[![Twitter Profile for Kate Dawson]({{ site.url }}/assets/img/icons/twitter.png){:style="height:20px;width:20px;margin-left:2%"}](https://twitter.com/bone_idol)<!-- [![FB Profile for SPEAKER]({{ site.url }}/assets/img/icons/facebook.png){:style="height:20px;width:20px;margin-left:2%"}](https://facebook.com/SPEAKER) --><!-- [![LinkedIn Profile for SPEAKER]({{ site.url }}/assets/img/icons/linkedin.png){:style="height:20px;width:20px;margin-left:2%"}](https://linkedin.com/in/SPEAKER) -->
-<!-- ![SPEAKER]({{ site.url }}/assets/img/speakers/SPEAKER.jpg){:style="width:30%"} -->
+![Kate Dawson]({{ site.url }}/assets/img/speakers/Kate-Dawson.jpg){:style="width:30%"}
 
 Learn about Cooperative Technologists, and the Co-operative movement
 
