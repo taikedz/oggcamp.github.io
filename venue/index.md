@@ -13,9 +13,9 @@ The full postal address is: <a href="https://map.what3words.com/grapes.drill.ope
 More details will follow as the event approaches.
 
 Below is a map with highlights of the important locations for OggCamp 18.
-<iframe src="https://umap.openstreetmap.fr/en/map/key-venues-for-oggcamp-18_232962?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#14/53.3806/-1.4613" width="100%" height="300px" frameborder="0"></iframe>
+<iframe src="https://umap.openstreetmap.fr/en/map/key-venues-for-oggcamp-18_239606?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#14/53.3806/-1.4613" width="100%" height="300px" frameborder="0"></iframe>
 
-<a href="https://umap.openstreetmap.fr/en/map/key-venues-for-oggcamp-18_232962">See full screen</a>
+<a href="https://umap.openstreetmap.fr/en/map/key-venues-for-oggcamp-18_239606">See full screen</a>
 
 ---
 
