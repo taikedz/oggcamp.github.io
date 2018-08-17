@@ -6,7 +6,9 @@
 <!--		<li><a href="{{ site.github.url }}{{ site.baseurl }}/accommodation">Accommodation</a></li> -->
 		<li><a href="{{ site.github.url }}{{ site.baseurl }}/venue">Venue</a></li>
 		<li><a href="{{ site.github.url }}{{ site.baseurl }}/guidelines">Talk Guidelines</a></li>
-<!--		<li><a href="{{ site.github.url }}{{ site.baseurl }}/schedule">Schedule</a></li> -->
+{% if site.joindin != '' %}
+		<li><a href="https://joind.in/event/{{ site.joindin }}">Schedule</a></li>
+{% endif %}
  		<li><a href="{{ site.github.url }}{{ site.baseurl }}/scheduled-track">Speakers</a></li>
 		<li><a href="{{ site.github.url }}{{ site.baseurl }}/code-of-conduct">Code of Conduct</a></li>
 		<li><a href="{{ site.github.url }}{{ site.baseurl }}/history">History</a></li>
@@ -24,8 +26,8 @@
 {% if site.telegram != '' %}
 		<li><a href="https://t.me/joinchat/{{ site.telegram }}"><img src="{{ site.github.url }}{{ site.baseurl }}/assets/img/icons/telegram.png"></a></li>
 {% endif %}
-{% if site.joindin != '' %}
-		<li><a href="https://joind.in/event/{{ site.joindin }}"><img src="{{ site.github.url }}{{ site.baseurl }}/assets/img/icons/joindin.png" style="width:24px;height:24px;"></a></li>
+{% if site.linkedin != '' %}
+		<li><a href="https://linkedin.com/company/{{ site.linkedin }}"><img src="{{ site.github.url }}{{ site.baseurl }}/assets/img/icons/linkedin.png"></a></li>
 {% endif %}
         </ul>
 </nav>
