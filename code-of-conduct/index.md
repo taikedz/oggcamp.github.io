@@ -32,4 +32,4 @@ If you report an incident by phone, this will be to an organiser. Where possible
 
 <hr>
 
-This document is based on [Conference Code of Conduct](http://confcodeofconduct.com/) and the [DEF CON Attendee Reported Incident Handling Process](https://www.defcon.org/html/defcon-26/dc-26-news.html#dc26incident] and is licensed under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+This document is based on [Conference Code of Conduct](http://confcodeofconduct.com/) and the [DEF CON Attendee Reported Incident Handling Process](https://www.defcon.org/html/defcon-26/dc-26-news.html#dc26incident) and is licensed under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
