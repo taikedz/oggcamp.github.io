@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: splash
 ---
-<h2 style="text-align: center;">SAT AUG 18th - SUN AUG 19th 2018 - SHEFFIELD, UK</h2>
+<h2 style="text-align: center;">SAT OCT 19th - SUN OCT 20th 2019 - MANCHESTER, UK</h2>
 
 <!-- ![OggCamp 2011 Geeknic - Photo by Miia Sample - CC-BY-SA]({{ site.url }}/files/geeknic-1.jpg)
 
@@ -9,7 +9,11 @@ layout: default
 
 [Tickets for this year's event are now available. Get them here!](/tickets)
 
-We're still getting all the details together for this year, but in the meantime, have a mooch around to find out what makes an OggCamp!
+10th Anniversary Spectacular! That's right OggCamp is 10 years old this year, hard to believe, they grow up so fast... (sobs)
+
+Anyway, enough of that, join us in **Manchester this October** to help us celebrate!!
+
+MORE DETAILS TO FOLLOW SOON....
 
 Follow us on [Twitter](https://twitter.com/OggCamp), [Facebook](https://www.facebook.com/OggCamp) or [Google+](https://plus.google.com/114120215314425775951) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).
 
