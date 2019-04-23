@@ -128,3 +128,7 @@ h1, h2, h3 {
 .schedule .info {
     font-style: italic;
 }
+
+.HeaderBanner {
+    font-size: 3.5em;
+}

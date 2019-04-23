@@ -1,9 +1,6 @@
 ---
-layout: splash
+layout: default
 ---
-<h1>OGGCAMP 19</h1>
-
-<h2 style="text-align: center;">SAT OCT 19th - SUN OCT 20th 2019 - MANCHESTER, UK</h2>
 
 <!-- ![OggCamp 2011 Geeknic - Photo by Miia Sample - CC-BY-SA]({{ site.url }}/files/geeknic-1.jpg)
 
