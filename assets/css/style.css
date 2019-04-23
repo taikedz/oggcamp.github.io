@@ -132,3 +132,16 @@ h1, h2, h3 {
 .HeaderBanner {
     font-size: 3.5em;
 }
+
+#SponsorImage img {
+    width: 500px;
+    margin: 0;
+}
+
+#SponsorImage a {
+    text-align: center;
+}
+
+#SponsorImage {
+    text-align: center;
+}
