@@ -12,7 +12,7 @@ Anyway, enough of that, join us in **Manchester this October** to celebrate! The
 
 <h2>MORE DETAILS COMING SOON...</h2>
 
-Follow us on [Twitter](https://twitter.com/OggCamp), [Facebook](https://www.facebook.com/OggCamp) or [Google+](https://plus.google.com/114120215314425775951) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).
+Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.facebook.com/OggCamp) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).
 
 <hr />
 
