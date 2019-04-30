@@ -10,10 +10,10 @@ We love pull requests but if you spot anything wrong on the site, or have questi
 
 To get a local copy of the website (**TL;DR: it's Jekyll**):
 
-1. Fork this repositor
+1. Fork this repository
 2. Clone your forked repository to your own computer
 3. Run `bundle install`
 4. Run `bundle exec jekyll serve`
 5. Find a copy of the site at `https://localhost:4000`
 
-
+If you have trouble installing Jekyll please consult their documentation - https://jekyllrb.com/docs/installation/
