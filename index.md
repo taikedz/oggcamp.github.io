@@ -4,13 +4,6 @@ layout: default
 
 10th Anniversary Spectacular! Believe it or not OggCamp is 10 years old thi year. Whether you've never been before or you're claiming a lifetime achievement award by attending them all, we you you'll join us in **Manchester this October** to celebrate!
 
-<h2>CALL FOR PAPERS</h2>
-
-[Call for papers](https://www.papercall.io/oggcamp2019) is **now open** until the end of May!
-
-OggCamp is an unconference, so it does not have a schedule, except in the scheduled track! We're running a Call for Papers for the scheduled track this year so please offer up the talks you have in mind, tell your friends, nag the speakers you want to see and generally spread the word!
-
-
 <h2>STAY IN TOUCH</h2>
 
 Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.facebook.com/OggCamp) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).
