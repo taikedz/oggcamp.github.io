@@ -2,7 +2,11 @@
 layout: default
 ---
 
-10th Anniversary Spectacular! Believe it or not OggCamp is 10 years old thi year. Whether you've never been before or you're claiming a lifetime achievement award by attending them all, we you you'll join us in **Manchester this October** to celebrate!
+10th Anniversary Spectacular! Believe it or not OggCamp is 10 years old this year. Whether you've never been before or you're claiming a lifetime achievement award by attending them all, we hope you'll join us to celebrate!
+
+We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 19th and 20th 2019**.
+
+<a href="/tickets">**Tickets are available now**</a> and accommodation details are on the way. So get booking!
 
 <h2>STAY IN TOUCH</h2>
 
