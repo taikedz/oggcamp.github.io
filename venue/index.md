@@ -20,3 +20,5 @@ Manchester, M1 3BB
 <p><a href="https://www.pendulumhotel.co.uk/360-tour/" target="_blank">Full 3D venue tour available here</a></p>
 
 <strong><a href="https://www.pendulumhotel.co.uk/directions/" target="_blank">Click here for comprehensive directions to the venue :-)</a></strong>
+
+<p><a href="https://ti.to/oggcamp/oggcamp-2019">GET YOUR TICKETS HERE</a></p>
