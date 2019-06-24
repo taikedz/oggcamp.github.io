@@ -58,7 +58,7 @@ But don’t even get me started on the Fediverse (i.e. Mastodon) - which would b
 
 ### Jamie Tanna [@jamietanna](https://twitter.com/jamietanna)
 
-Jamie is a Software Quality Engineer 2 at Capital One UK, working on Identity Services. He has a passion for backend engineering, especially around APIs and automation. He is a GNU/Linux user, a big advocate for the Free Software Movement, and tries to self host his own services where possible, instead of relying on other providers.
+Jamie is a Software Quality Engineer 2 at Capital One UK, working on Identity Services. He has a passion for backend engineering, especially around APIs and automation. He is a GNU/Linux user, a big advocate for the Free Software Movement, and a personal website fanatic, even more so since joining the IndieWeb community, where he looks to self host as many services as he can.
 
 ## Runnning an open source project with (almost) no community
 
@@ -82,10 +82,28 @@ IBM Dev Advocate, previously Ubuntu Podcast and OggCamp Organiser.
 
 Likes Parkrun.
 
+## Lets map the world, Missing Maps and Openstreetmap
+
+We all know Wikipedia, well there is a similar project for maps, OpenStreetMap. Currently most of the western nations have good coverage on both OpenStreetMap and other maps, but when we go to the poorer and underdeveloped parts of the world there are no maps. Not on detailed scale that is actually useful.
+
+The Missing Maps project has set itself the target of getting the these parts of the world mapped.
+
+And we in the west can directly help with this, by helping to create the base maps that local people then add to and correct. By creating open map data we are making the world accessible
+
+In the talk I will show how you can directly help, and what open source technologies are doing to create the worlds open mapping resource.
+
+### Stuart Ward [@stuartward](https://twitter.com/stuartward)
+
+I have been a contributor to Openstreetmap for a number of years. A couple of years ago I discovered the Missing Maps project and have progressed my mapping, and now help to introduce Missing maps, and Openstreetmap to a wider audience, by organising mapathons, and helping to train volunteers at mapathons.
+
 ## We built a crowd-sourced open data site!
 
 Spoiler Alert - one day, you’re going to die. You may not get a blue plaque, but perhaps you’ll get a memorial bench. Liz & Terence have built openbenches.org where anyone can add to a collection of open data. We’ll show you why & how we built this collection of >12000 benches from around the world.
 
-## Terence Eden [@edent](https://twitter.com/edent)
+### Terence Eden [@edent](https://twitter.com/edent)
 
 Has very long hair and an increasingly large number of old mobile phones. He likes making things mobile friendly, eating vegetarian food, and writing in the third person.
+
+### Elizabeth Eden [@summerbeth](https://twitter.com/summerbeth)
+
+Liz is a philosopher, gamer, and co-founder of OpenBenches. She likes aquariums and cocktails. Not at the same time though.
