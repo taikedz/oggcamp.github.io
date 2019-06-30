@@ -24,7 +24,8 @@ Back in 2009, at OggCamp01 (before we got the numbering convention sorted out), 
 
 ### Andy Stanford-Clark [@andysc](https://twitter.com/andysc)
 
-Andy is IBM CTO for UK and Ireland.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/andy-stanford-clark.jpg" class="speaker" /> | Andy Stanford-Clark is the Chief Technology Officer for IBM in UK and Ireland. He is an IBM Distinguished Engineer and Master Inventor with more than 40 patents. Andy has been working in the area of Internet of Things for more than 20 years: he co-developed the MQTT messaging protocol in 1998. Andy is a keen maker, and a founder member of the Guild of Makers. He has interests in home automation, energy saving and animatronic dinosaurs! He has a BSc in Computing and Mathematics, a PhD in Computer Science, and holds 3 Visiting Professorships at UK universities.
 
 ## Video Killed My Data Plan: Delivering video that doesn't break the bank
 
@@ -58,7 +59,8 @@ But don’t even get me started on the Fediverse (i.e. Mastodon) - which would b
 
 ### Jamie Tanna [@jamietanna](https://twitter.com/jamietanna)
 
-Jamie is a Software Quality Engineer 2 at Capital One UK, working on Identity Services. He has a passion for backend engineering, especially around APIs and automation. He is a GNU/Linux user, a big advocate for the Free Software Movement, and a personal website fanatic, even more so since joining the IndieWeb community, where he looks to self host as many services as he can.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/jamie.png" class="speaker"> | Jamie is a Software Quality Engineer 2 at Capital One UK, working on Identity Services. He has a passion for backend engineering, especially around APIs and automation. He is a GNU/Linux user, a big advocate for the Free Software Movement, and a personal website fanatic, even more so since joining the IndieWeb community, where he looks to self host as many services as he can.
 
 ## Runnning an open source project with (almost) no community
 
@@ -66,7 +68,8 @@ I run the LibrePlan project. My biggest user is an oil company with offices in 3
 
 ### Jeroen Baten [@jeroenbaten](https://twitter.com/jeroenbaten)
 
-I have been working for ages in the ICT world. I started like most in technical positions but have long been doing consultancy work. Because I like to think in practical solutions you might call me a “solutionist”. A customer needs good answers more then more questions.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/jeroen-hoofd.jpg" class="speaker"> | I have been working for ages in the ICT world. I started like most in technical positions but have long been doing consultancy work. Because I like to think in practical solutions you might call me a “solutionist”. A customer needs good answers more then more questions.|
 
 ## Collecting badges with parkrun: The tale of the running-challenges browser extension
 
@@ -74,13 +77,10 @@ Last year, we added a new dimension of fun to Saturday morning 5k parkruns with 
 
 We’ll talk about how it all started, how and why we develop the extension for both Firefox and Chrome, our ethos, what data we have available and its limitations, and managing the requests and high expectations of the parkrun community.
 
-### Laura Cowen [@lauracowen](https://twitter.com/lauracowen)
+### Dr Laura Cowen [@lauracowen](https://twitter.com/lauracowen) and Andy Taylor [@fraz3alpha](https://twitter.com/fraz3alpha)
 
-IBM Dev Advocate, previously Ubuntu Podcast and OggCamp Organiser.
-
-### Andy Taylor [@fraz3alpha](https://twitter.com/fraz3alpha)
-
-Likes Parkrun.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/laura-and-andy.jpg" class="speaker" /> | Andy: Builder of the LED disco dance floor (see OggCamp 17), and regular parkrunner. Happier playing around with electronics and power tools than with web development, but will give it a go! Andy started parkrun in 2014, has volunteered over 75 times, and run 12 PBs. He has an average parkrun location in the middle of the English Channel, and the nearest event to home that he has not yet done is in Fareham. <br /><br />Laura: A former presenter on the Ubuntu podcast and a founding organiser of OggCamp, Laura is a keen parkrunner and shares the parkrun love with anyone who'll listen (see OggCamp 15). Since starting parkrun in 2015, she's run on more than 140 Saturday mornings at more than 40 different parkrun locations in 5 different countries (nearest: Winchester; furthest: San Francisco). She has a p-index of 3.
 
 ## Lets map the world, Missing Maps and Openstreetmap
 
@@ -94,16 +94,16 @@ In the talk I will show how you can directly help, and what open source technolo
 
 ### Stuart Ward [@stuartward](https://twitter.com/stuartward)
 
-I have been a contributor to Openstreetmap for a number of years. A couple of years ago I discovered the Missing Maps project and have progressed my mapping, and now help to introduce Missing maps, and Openstreetmap to a wider audience, by organising mapathons, and helping to train volunteers at mapathons.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/Stuart.jpg" width="150px"> |I have been a contributor to Openstreetmap for a number of years. A couple of years ago I discovered the Missing Maps project and have progressed my mapping, and now help to introduce Missing maps, and Openstreetmap to a wider audience, by organising mapathons, and helping to train volunteers at mapathons.
 
 ## We built a crowd-sourced open data site!
 
 Spoiler Alert - one day, you’re going to die. You may not get a blue plaque, but perhaps you’ll get a memorial bench. Liz & Terence have built openbenches.org where anyone can add to a collection of open data. We’ll show you why & how we built this collection of >12000 benches from around the world.
 
-### Terence Eden [@edent](https://twitter.com/edent)
+### Elizabeth Eden [@summerbeth](https://twitter.com/summerbeth) and Terence Eden [@edent](https://twitter.com/edent)
 
-Has very long hair and an increasingly large number of old mobile phones. He likes making things mobile friendly, eating vegetarian food, and writing in the third person.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/liz-terence.jpg" class="speaker" /> |Liz is a philosopher, gamer, and co-founder of OpenBenches. She likes aquariua and cocktails. Not at the same time though. <br /><br />Terence has very long hair and an increasingly large number of old mobile phones. He likes making things mobile friendly, eating vegetarian food, and writing in the third person.
 
-### Elizabeth Eden [@summerbeth](https://twitter.com/summerbeth)
 
-Liz is a philosopher, gamer, and co-founder of OpenBenches. She likes aquariums and cocktails. Not at the same time though.
