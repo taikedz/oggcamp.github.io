@@ -4,7 +4,7 @@
 
 ## Contributing
 
-We love pull requests but if you spot anything wrong on the site, or have questions about something that is missing, please open an issue.
+We love pull requests! If you spot anything wrong on the site please feel free to fix it by opening a Pull Request. If that's not your thing, or you just have questions, an issue is equally welcome :)
 
 ## Developers
 
@@ -17,3 +17,7 @@ To get a local copy of the website (**TL;DR: it's Jekyll**):
 5. Find a copy of the site at `https://localhost:4000`
 
 If you have trouble installing Jekyll please consult their documentation - https://jekyllrb.com/docs/installation/
+
+## Blog Posts
+
+To write a blog post: look in `_posts/` and add a new `.md` file with a date in its filename and some "front matter" that looks like the other files in this directory.
