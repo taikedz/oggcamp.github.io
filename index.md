@@ -8,6 +8,22 @@ We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference 
 
 <a href="/tickets">**Tickets are available now**</a> and accommodation details are on the way. So get booking!
 
+<hr />
+
+<h2>LATEST NEWS</h2>
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})
+    </li>
+  {% endfor %}
+</ul>
+
+See more [news](/news).
+
+<hr />
+
 <h2>STAY IN TOUCH</h2>
 
 Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.facebook.com/OggCamp) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).
