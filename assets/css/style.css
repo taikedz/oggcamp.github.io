@@ -133,20 +133,45 @@ h1, h2, h3 {
     font-size: 3.5em;
 }
 
-#SponsorImage img {
+#SponsorPack img {
     width: 500px;
     margin: 0;
 }
 
-#SponsorImage a {
+#SponsorPack a {
     text-align: center;
 }
 
-#SponsorImage {
+#SponsorPack {
     text-align: center;
 }
 
 img.speaker {
     width: 150px;
     margin: 15px;
+}
+
+#SponsorBlock {
+    text-align: center;
+}
+
+#SponsorBlock a.all, p.all {
+    margin: 0;
+}
+
+img.sponsor-image {
+    width: 20em;
+    text-align: center;
+    margin: 1em;
+}
+
+img.sponsor-image-platinum {
+    width: 25em;
+    text-align: center;
+    margin: 1em;
+}
+
+#CirclesText {
+    font-size: 200%;
+    margin-bottom: 10px;
 }
