@@ -1,0 +1,33 @@
+- name: Venue
+  link: /venue/
+- name: Sponsors
+  link: /sponsors/
+- name: Schedule
+  link: /schedule/
+- name: Speakers 
+  link: /speakers/
+- name: Code of Conduct 
+  link: /code-of-conduct/
+- name: History
+  link: /history/
+- name: Get Tickets
+  link: /tickets/
+- name: Pages
+  link: #
+  dropdown:
+    - name: Page With Sidebar
+      link: /page-1/
+    - name: Page No Sidebar
+      link: /page-2/
+    - name: Page With Menubar
+      link: /page-3/
+    - name: Page With Tabs
+      link: /page-4/
+    - name: Page Without Footer
+      link: /page-5/
+    - name: Landing Page With Callouts
+      link: /landing/
+- name: Products
+  link: /products/
+- name: Blog
+  link: /news/

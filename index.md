@@ -1,5 +1,8 @@
 ---
-layout: default
+title: OGGCAMP 19
+subtitle: SAT OCT 19th - SUN OCT 20th 2019 - MANCHESTER, UK
+layout: page
+show_sidebar: true
 ---
 
 10th Anniversary Spectacular! Believe it or not OggCamp is 10 years old this year. Whether you've never been before or you're claiming a lifetime achievement award by attending them all, we hope you'll join us to celebrate!

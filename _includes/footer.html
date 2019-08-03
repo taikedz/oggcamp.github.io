@@ -1,13 +1,20 @@
-<footer>
-<!--Additional sponsors:<br>
-  <a href="https://ubuntu.com"><img style="width: 22%; margin-left: 0; vertical-align: top" src="/assets/img/sponsors/ubuntu_white-orange_hex.svg"></a>
-  <a href="https://www.suse.com"><img style="width: 22%; margin-left: 0; vertical-align: top" src="/assets/img/sponsors/SUSE-official-logo-white.svg"></a>
-<br>Also supported by:<br>
-  <a href="https://doteveryone.org.uk"><img style="width: 22%; margin-left: 0; vertical-align: top" src="/assets/img/sponsors/doteveryone_logo_light.png"></a>
--->
-</footer><footer>
-<a href="https://github.com/gjuniioor/darcli">Darcli Theme by GJuniioor</a>
-</footer>
-<footer>
-  Except where otherwise attributed, content here is &copy; 2019 OggCamp, a project of <a href="https://publicsoftware.eu/">Public Software CIC</a>
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
 </footer>
