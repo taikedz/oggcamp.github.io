@@ -11,7 +11,7 @@ While you don't *have* to have a ticket to come to OggCamp, registering helps us
 <!-- place this where you want the widget to appear -->
 <tito-widget event="oggcamp/oggcamp-2019">Click here to book tickets!</tito-widget>
 
-This year we are tying out a new ticketing system. <a href="https://ti.to/oggcamp/oggcamp-2019" target="_blank">See full listing on the Ti.to site.</a>
+This year we are trying out a new ticketing system. <a href="https://ti.to/oggcamp/oggcamp-2019" target="_blank">See full listing on the Ti.to site.</a>
 
 All attendees are required to agree and comply with the [Code of Conduct]({{ site.baseurl }}/code-of-conduct).
 

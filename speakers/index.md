@@ -95,7 +95,7 @@ In the talk I will show how you can directly help, and what open source technolo
 ### Stuart Ward [@stuartward](https://twitter.com/stuartward)
 
 |------------------|-----------------------------------------|
-| <img src="/speakers/images/Stuart.jpg" width="150px"> |I have been a contributor to Openstreetmap for a number of years. A couple of years ago I discovered the Missing Maps project and have progressed my mapping, and now help to introduce Missing maps, and Openstreetmap to a wider audience, by organising mapathons, and helping to train volunteers at mapathons.
+| <img src="/speakers/images/Stuart.jpg" class="speaker" /> | I have been a contributor to Openstreetmap for a number of years. A couple of years ago I discovered the Missing Maps project and have progressed my mapping, and now help to introduce Missing maps, and Openstreetmap to a wider audience, by organising mapathons, and helping to train volunteers at mapathons.
 
 ## We built a crowd-sourced open data site!
 
@@ -104,6 +104,6 @@ Spoiler Alert - one day, you’re going to die. You may not get a blue plaque, b
 ### Elizabeth Eden [@summerbeth](https://twitter.com/summerbeth) and Terence Eden [@edent](https://twitter.com/edent)
 
 |------------------|-----------------------------------------|
-| <img src="/speakers/images/liz-terence.jpg" class="speaker" /> |Liz is a philosopher, gamer, and co-founder of OpenBenches. She likes aquariua and cocktails. Not at the same time though. <br /><br />Terence has very long hair and an increasingly large number of old mobile phones. He likes making things mobile friendly, eating vegetarian food, and writing in the third person.
+| <img src="/speakers/images/liz-terence.jpg" class="speaker" /> | Liz is a philosopher, gamer, and co-founder of OpenBenches. She likes aquariua and cocktails. Not at the same time though. <br /><br />Terence has very long hair and an increasingly large number of old mobile phones. He likes making things mobile friendly, eating vegetarian food, and writing in the third person.
 
 
