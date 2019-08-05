@@ -77,7 +77,7 @@ But don’t even get me started on the Fediverse (i.e. Mastodon) - which would b
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/jamie.png" class="speaker"> | Jamie is a Software Quality Engineer 2 at Capital One UK, working on Identity Services. He has a passion for backend engineering, especially around APIs and automation. He is a GNU/Linux user, a big advocate for the Free Software Movement, and a personal website fanatic, even more so since joining the IndieWeb community, where he looks to self host as many services as he can.
 
-## Runnning an open source project with (almost) no community
+## Running an open source project with (almost) no community
 
 I run the LibrePlan project. My biggest user is an oil company with offices in 30 countries. LibrePlan is a web-based project management application with very professional features. I have been managing this project for the past 5 years. In this talk I want to show you what LibrePlan is, why it’s so cool and how I kept the project alive. It is a talk about tech stuff, but also about moral dilemma’s. It’s a talk for newbies, but also for those with lots of open source development experience.
 
