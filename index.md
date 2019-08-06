@@ -1,6 +1,6 @@
 ---
 title: OGGCAMP 19
-subtitle: SAT OCT 19th - SUN OCT 20th 2019 - MANCHESTER, UK
+subtitle: OCTOBER 19th & 20th 2019 - MANCHESTER, UK
 layout: page
 show_sidebar: true
 ---

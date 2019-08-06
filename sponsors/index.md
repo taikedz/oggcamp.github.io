@@ -11,7 +11,7 @@ title: Sponsors
    <p><a href="https://ubuntu.com" target="_blank"><img src="/assets/img/sponsors/ubuntu_black-orange_hex.svg" class="sponsor-image"></a></p>
 <hr />
   <h2>SILVER LEVEL</h2>
-   <p><a href="https://www.opensuse.org/" target="_blank"><img src="/assets/img/sponsors/SUSE-official-logo-white.svg" class="sponsor-image"></a></p>
+   <p><a href="https://www.opensuse.org/" target="_blank"><img src="/assets/img/sponsors/SUSE-official-logo-black.svg" class="sponsor-image"></a></p>
    <p><h2 id="CirclesText">8 Circles Ltd</h2></p>
 </div>
 
