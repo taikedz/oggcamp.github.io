@@ -37,5 +37,5 @@ Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.fa
 
 OggCamp is an unconference celebrating Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative cultural activities and is committed to creating a conference that is as inclusive as possible. If you've got a story to tell, no matter your background or current status, whether it's your first talk or you've loads of experience, as long as the talk is connected (somehow) to our theme then we want to know about it. You can find out what happens at an OggCamp by watching the video below:
 
-<iframe src="https://www.youtube.com/embed/K15PIGuiLKw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe class="YouTubeEmbed" src="https://www.youtube.com/embed/K15PIGuiLKw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
