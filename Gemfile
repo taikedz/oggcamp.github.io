@@ -11,3 +11,6 @@ gem "jekyll", "~> 3.8"
 
 # Added at 2019-01-21 18:52:15 +0000 by jon:
 gem "jekyll-feed", "~> 0.11.0"
+
+# Added 2019-08-02 by Dan for new theme
+gem "bulma-clean-theme"

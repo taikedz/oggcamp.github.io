@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<header>
-	<h1>{{ page.title }}</h1>
-	by 
-	{% for author in page.authors %}
-	<author><a href="{{ site.baseurl }}/#{{ author }}">{{ author }}</a></author>{% if forloop.last == false %}, {% endif %}
-	{% endfor %}
-</header>
+<div class="content">
 
-{{ content }}
+    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+
+    {{ content }}
+</div>
+
+<div class="tags">
+    {% for tag in page.tags %}
+    <span class="tag is-primary">{{ tag }}</span>
+    {% endfor %}
+</div>
