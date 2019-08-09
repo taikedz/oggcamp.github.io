@@ -9,10 +9,12 @@ show_sidebar: true
 
 We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference Centre**</a> in the Pendulum Hotel near Picadilly Station the weekend of **October 19th and 20th 2019**.
 
-<a href="/tickets">**Tickets are available now**</a> and accommodation details are on the way. So get booking!
+There are some reserved rooms available at the venue hotel but you better BOOK THEM FAST. Details of how to do so can be <strong><a href="/news/accommodation/">found here.</a></strong>
+
+<a href="/tickets">**Tickets are available now**</a>. So get booking!
 
 <hr />
-
+<!--
 <h2>LATEST NEWS</h2>
 
 <ul>
@@ -26,7 +28,7 @@ We're at <a href="https://www.pendulumhotel.co.uk/">**The Manchester Conference 
 See more [news](/news).
 
 <hr />
-
+-->
 <h2>STAY IN TOUCH</h2>
 
 Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.facebook.com/OggCamp) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).

@@ -13,7 +13,7 @@ If you want to stay on site, we have a block of rooms reserved, but they can onl
 * Saturday 19th October: £119
 * Sunday 20th October: £89
 
-To book: phone 0161 955 8062 and quote code GA01775
+**To book: phone 0161 955 8062 and quote code GA01775**
 
 Since we're in central Manchester this year, there are PLENTY of other options nearby and by easy transport connection. Particularly look out for the Ibis next door, the reasonably priced MotelOne and plenty of other more and less expensive options. The nearest train and tram stations are both at Manchester Picadilly.
 

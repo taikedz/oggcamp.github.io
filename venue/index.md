@@ -17,6 +17,9 @@ Manchester, M1 3BB
 <p>Tel: 0161 955 8000</p>
 <p>Email: stay@pendulumhotel.co.uk</p>
 
+<p>There are a limited number of <strong>discounted hotel rooms</strong> reserved for OggCamp attendees. Find details of <strong><a href="/news/accommodation/">how to book them here.</a></strong></p>
+
+
 <p><a href="https://www.pendulumhotel.co.uk/360-tour/" target="_blank">Full 3D venue tour available here</a></p>
 
 <strong><a href="https://www.pendulumhotel.co.uk/directions/" target="_blank">Click here for comprehensive directions to the venue :-)</a></strong>
