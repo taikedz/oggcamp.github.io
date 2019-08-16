@@ -1,3 +1,5 @@
+- name: News
+  link: /news/
 - name: Venue
   link: /venue/
 - name: Sponsors
