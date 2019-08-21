@@ -1,11 +1,11 @@
 ---
-title: The Oggcamp Chief is back and he needs your help!
+title: The Oggcamp Chief needs your help!
 date: 2019-08-21 10:30:00
 categories: [news]
 layout: default
 ---
 
-Many of you will already know what Oggcamp is, but just in case…
+The Oggcamp Chief is back and he needs your help! Many of you will already know what Oggcamp is, but just in case…
 
 <img src="/assets/img/the-chief.png" class="right-float-blog" />“OggCamp is an unconference celebrating Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative cultural activities and is committed to creating a conference that is as inclusive as possible. If you’ve got a story to tell, no matter your background or current status, whether it’s your first talk or you’ve loads of experience, as long as the talk is connected (somehow) to our theme then we want to know about it.”
 
