@@ -66,6 +66,7 @@
 
 .oggcamp time {
     font-weight: bold;
+    margin-bottom: 1em;
 }
 
 .oggcamp img.sponsor-image-silver {
@@ -82,4 +83,10 @@
 
 #SponsorBlock p {
     text-align: center;
+}
+
+.oggcamp ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    padding-bottom: 1em;
 }
