@@ -22,3 +22,5 @@ If this sounds good please sign up using this form, thank you!
 <iframe class="googleform" src="https://docs.google.com/forms/d/e/1FAIpQLSe94j_rvCK9-0IBVBRZ-U4TrbPRP8yDpRsKy9TEn6oSdQCUbg/viewform?embedded=true" width="95%" height="2076" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 One of us! One of us! :D
+
+Please join us on the **OggCamp Discord** and we'll add you to the Crew channel - [https://discord.gg/4DcDk6Y](https://discord.gg/4DcDk6Y)
