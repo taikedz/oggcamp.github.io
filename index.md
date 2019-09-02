@@ -31,7 +31,7 @@ See more [news](/news).
 -->
 <h2>STAY IN TOUCH</h2>
 
-Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.facebook.com/OggCamp) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)).
+Follow us on [Twitter](https://twitter.com/OggCamp) or [Facebook](https://www.facebook.com/OggCamp) and we'll update you with any important news. There is also a [Telegram group](https://t.me/joinchat/AAAAAAsF-xo4ol9jAjNW8A), an [IRC channel](irc://irc.freenode.net/oggcamp)(also available via [WebChat](http://webchat.freenode.net?channels=%23oggcamp) or [Matrix Bridge](https://matrix.to/#/#freenode_#oggcamp:matrix.org)). We have also now added a Discord server for those who requested it, join here - [https://discord.gg/4DcDk6Y](https://discord.gg/4DcDk6Y)
 
 <hr />
 
