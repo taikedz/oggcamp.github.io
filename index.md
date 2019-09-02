@@ -1,9 +1,11 @@
 ---
 title: OGGCAMP 19
 subtitle: OCTOBER 19th & 20th 2019 - MANCHESTER, UK
-layout: page
+layout: default-home
 show_sidebar: true
 ---
+            
+<img src="/assets/img/oggcamp-19-logo-wordmark.png" alt="OggCamp19 logo" class="banner-logo" />
 
 10th Anniversary Spectacular! Believe it or not OggCamp is 10 years old this year. Whether you've never been before or you're claiming a lifetime achievement award by attending them all, we hope you'll join us to celebrate!
 
