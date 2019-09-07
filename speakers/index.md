@@ -16,7 +16,8 @@ This talk is for you if you’re a beginner/hobbyist/Linux-lite user and looking
 
 ### Anna [@anna_hax](https://twitter.com/anna_hax)
 
-Software Engineer, likes making and breaking stuff, hanging out in the tech community, organiser of @WiT_Notts, Free and Open Source advocate. She/her
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/anna.png" class="speaker" /> | Software Engineer, likes making and breaking stuff, hanging out in the tech community, organiser of @WiT_Notts, Free and Open Source advocate. She/her
 
 ## The state of MQTT
 
@@ -26,6 +27,11 @@ Back in 2009, at OggCamp01 (before we got the numbering convention sorted out), 
 
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/andy-stanford-clark.jpg" class="speaker" /> | Andy Stanford-Clark is the Chief Technology Officer for IBM in UK and Ireland. He is an IBM Distinguished Engineer and Master Inventor with more than 40 patents. Andy has been working in the area of Internet of Things for more than 20 years: he co-developed the MQTT messaging protocol in 1998. Andy is a keen maker, and a founder member of the Guild of Makers. He has interests in home automation, energy saving and animatronic dinosaurs! He has a BSc in Computing and Mathematics, a PhD in Computer Science, and holds 3 Visiting Professorships at UK universities.
+
+### Roger Light [@ralight](https://twitter.com/ralight)
+
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/roger.jpg" class="speaker" /> | Roger is a senior developer at Cedalo AG, where he works on a component of their soon to be open source Internet of Things enabled spread sheet service, StreamSheets. He is the project lead and main developer of the Eclipse Mosquitto project which came about because of the first Oggcamp, and has become unexpectedly popular.
 
 ## Stopping Brexit with Data Science
 
