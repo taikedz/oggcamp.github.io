@@ -104,3 +104,21 @@
     list-style-position: inside;
     padding-bottom: 1em;
 }
+
+.oggcamp table {
+    border: solid 0.5px;
+    width: 100%;
+}
+
+.oggcamp  table th {
+    background: #ffffdf;
+    padding: 2px;
+    border: solid 0.5px silver;
+    text-align: center;
+}
+
+.oggcamp table td {
+    padding: 2px;
+    border: solid 0.5px silver;
+    text-align: center;
+}
