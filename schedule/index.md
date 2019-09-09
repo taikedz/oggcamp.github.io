@@ -11,13 +11,13 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
   <thead>
     <tr>
       <th>Time</th>
-      <th>Pendulum Bar</th>
+      <th>Garden Bar @ The Pendulum Hotel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>19:00-late</td>
-      <td>Some sort of informal gathering, details TBC</td>
+      <td>18:30-late</td>
+      <td>Drinks in The Garden Bar at the venue. Food is also available to order, full menu to follow.</td>
     </tr>
   </tbody>
 </table>
@@ -31,41 +31,46 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
       <th>Main Track</th>
       <th>Track 2</th>
       <th>Track 3</th>
+      <th>Track 4</th>
       <th>Kid's Track</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>10:30</td>
-      <td colspan="4">Welcome!</td>
+      <td colspan="5">Welcome!</td>
     </tr>
     <tr>
       <td>11:00</td>
       <td>Scheduled Talks</td>
-      <td colspan="2">Unconference!</td>
+      <td colspan="3">Unconference!</td>
       <td>Scheduled Talks</td>
     </tr>
     <tr>
       <td>12:30</td>
-      <td colspan="4">A pause for lunch</td>
+      <td colspan="5">A pause for lunch</td>
     </tr>
     <tr>
       <td>13:30</td>
-      <td colspan="4">Lightning talks! (5 mins)</td>
+      <td colspan="5">Lightning talks! (5 mins)</td>
     </tr>
     <tr>
       <td>14:00</td>
       <td>Scheduled Talks</td>
-      <td colspan="2">Unconference!</td>
+      <td colspan="3">Unconference!</td>
       <td>Scheduled Talks</td>
     </tr>
     <tr>
       <td>16:00</td>
-      <td colspan="4">Podcasting may occur</td>
+      <td colspan="5"><strong>Podcast panel</strong> hosted by <strong>Joe Ressington</strong>. Members == Dr Laura Cowen, Joshua Lowe, Caroline Keep & Dan Lynch</td>
     </tr>
     <tr>
       <td>17:00</td>
-      <td colspan="4">OggCamp Party! Band in the main room, food/drink/chatter in the bar.</td>
+      <td colspan="5">A bit of downtime while the main room is reset. Drinks will be available in the bar. Food too.</td>
+    </tr>
+    <tr>
+      <td>19:00</td>
+      <td colspan="5">OggCamp Party! <strong>Dev Null & The Kernel Panics</strong> playing live in the main room, also food/drink/chatter in the bar. Again full menu to follow.</td>
     </tr>
   </tbody>
 </table>
@@ -109,10 +114,10 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
     </tr>
     <tr>
       <td>16:00</td>
-      <td colspan="4">Rafflecast</td>
+      <td colspan="4">Rafflecast & Closing</td>
     </tr>
     <tr>
-      <td>16:30</td>
+      <td>17:00</td>
       <td colspan="4">Finish (and probably a pub trip for anyone hanging around)</td>
     </tr>
   </tbody>
