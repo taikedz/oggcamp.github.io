@@ -17,7 +17,7 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
   <tbody>
     <tr>
       <td>18:30-late</td>
-      <td>Drinks in The Garden Bar at the venue. Food is also available to order, full menu to follow.</td>
+      <td>Drinks in The Garden Bar at the venue. Food is also available to order. <a href="https://oggcamp.org/news/social-events/">Party details on the blog -></a></td>
     </tr>
   </tbody>
 </table>
@@ -70,7 +70,7 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
     </tr>
     <tr>
       <td>19:00</td>
-      <td colspan="5">OggCamp Party! <strong>Dev Null & The Kernel Panics</strong> playing live in the main room, also food/drink/chatter in the bar. Again full menu to follow.</td>
+      <td colspan="5">OggCamp Party! <strong>Dev Null & The Kernel Panics</strong> playing live in the main room, also food/drink/chatter in the bar. <a href="https://oggcamp.org/news/social-events/">Party details on the blog -></a></td>
     </tr>
   </tbody>
 </table>
