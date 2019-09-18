@@ -25,7 +25,7 @@ This is made possible by **YOU** the **Oggcamp Crew!**
 
 You may now be thinking “What do I get for this?” For your work you will receive a limited edition Oggcamp Crew t-shirt, and an Oggcamp mug, but most importantly you will receive the thanks of the delegates and organisers who cannot run Oggcamp without you. You will also have the time to take part in Oggcamp, watch the talks, take part in workshops etc.
 
-If you would like to volunteer then please [**fill out the form on our Crew page**](https://oggcamp.org/crew/)
+**UPDATE 15/09/19** - We have now **closed** the crew sign up form as we have enough volunteers. Thank you for the amazing response, we appreciate it!
 
 Thanks for reading!
 
