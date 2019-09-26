@@ -4,7 +4,7 @@ title: Send A Question For The Panel
 ---
 
 <img src="/assets/img/Oggcamp11Podcast.jpg" class="right-float-crew" /> This year at OggCamp, the Podcast Panel will be consist of (drum roll)...
-- <a href="hhttp://lauracowen.co.uk/blog/about/">**Dr Laura Cowen**</a> - IBM-er, Doctor of Psychology, developer advocate, Park runner and ex-Ubuntu podcast-er
+- <a href="http://lauracowen.co.uk/blog/about/">**Dr Laura Cowen**</a> - IBM-er, Doctor of Psychology, developer advocate, Park runner and ex-Ubuntu podcast-er
 - <a href="https://about.me/joshua.lowe">**Joshua Lowe**</a> - Creator of Edublocks and Python developer extrordinaire, editor of Micro:bit magazine and co-host of MintCast
 - <a href="https://twitter.com/Ka81">**Caroline Keep**</a> - 2018 TES national new teacher of the year, BIMA 100, Liverpool MakeFest founder and creator of the Spark Penketh Makerspace
 - <a href="https://danlynch.org/">**Dan Lynch**</a> - Bronze 200m swimming certificate, former Linux Outlaw, FLOSS Weekly host, OggCamp founder and music nerd
