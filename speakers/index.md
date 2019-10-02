@@ -19,7 +19,7 @@ This talk is for you if you’re a beginner/hobbyist/Linux-lite user and looking
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/anna.png" class="speaker" /> | Software Engineer, likes making and breaking stuff, hanging out in the tech community, organiser of @WiT_Notts, Free and Open Source advocate. She/her
 
-## The state of MQTT
+## The Progress of MQTT
 
 Back in 2009, at OggCamp01 (before we got the numbering convention sorted out), I gave the opening keynote about Internet of Things and the MQTT messaging protocol that underpins all the cool things I’d been doing to automate my home, save energy in a number of ways, and make the Isle of Wight ferries tweet about their movements. Roger Light was in the audience and was sufficiently inspired by my talk to rush home and create the mosquitto project on launchpad. The rest, as they say, is history, and 10 years later, at OggCamp19, I will give edited highlights of the tremendous impact  MQTT has made in the world of Internet of Things in the last ten years, which has been considerably helped by the widespread adoption of mosquitto as the first open source MQTT message broker. I will also talk about some of my recent IoT projects, including animatronic dinosaurs, more ferry-related stuff, and keeping antelopes warm in their beds in the winter!
 
