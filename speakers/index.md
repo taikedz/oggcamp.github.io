@@ -19,7 +19,7 @@ This talk is for you if you’re a beginner/hobbyist/Linux-lite user and looking
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/anna.png" class="speaker" /> | Software Engineer, likes making and breaking stuff, hanging out in the tech community, organiser of @WiT_Notts, Free and Open Source advocate. She/her
 
-## The state of MQTT
+## The Progress of MQTT
 
 Back in 2009, at OggCamp01 (before we got the numbering convention sorted out), I gave the opening keynote about Internet of Things and the MQTT messaging protocol that underpins all the cool things I’d been doing to automate my home, save energy in a number of ways, and make the Isle of Wight ferries tweet about their movements. Roger Light was in the audience and was sufficiently inspired by my talk to rush home and create the mosquitto project on launchpad. The rest, as they say, is history, and 10 years later, at OggCamp19, I will give edited highlights of the tremendous impact  MQTT has made in the world of Internet of Things in the last ten years, which has been considerably helped by the widespread adoption of mosquitto as the first open source MQTT message broker. I will also talk about some of my recent IoT projects, including animatronic dinosaurs, more ferry-related stuff, and keeping antelopes warm in their beds in the winter!
 
@@ -32,21 +32,6 @@ Back in 2009, at OggCamp01 (before we got the numbering convention sorted out), 
 
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/roger.jpg" class="speaker" /> | Roger is a senior developer at Cedalo AG, where he works on a component of their soon to be open source Internet of Things enabled spread sheet service, StreamSheets. He is the project lead and main developer of the Eclipse Mosquitto project which came about because of the first Oggcamp, and has become unexpectedly popular.
-
-## Stopping Brexit with Data Science
-
-Remain Voter is an independent grassroots group aiming to make every Remain vote count.
-
-Remain Voter was launched in May 2019 to identify the best tactical voting options for Remainers in the European Elections. With £500 and three weeks, remainvoter.com got into the top 10,000 websites in the UK and was published in the Huffington Post, ITV, Mail Online, the Mirror and AOL.
-
-I’ll talk about how our group of open source advocates, data scientists and techies got together, the model behind the tactical voting engine, and how you can help stop Brexit.
-
-### Cheryl Hung [@oicheryl](https://twitter.com/oicheryl)
-
-|------------------|-----------------------------------------|
-| <img src="/speakers/images/cheryl.jpg" class="speaker"> | Cheryl Hung is the Director of Ecosystem at the Cloud Native Computing Foundation. She focuses on creating communities around cloud native, Kubernetes and open source infrastructure, and founded the Cloud Native London meetup.
-
-Cheryl was previously a C++ engineer at Google, as well as engineering manager, product manager and developer advocate. She graduated from the University of Cambridge with a Masters degree in Computer Science.
 
 ## Video Killed My Data Plan: Delivering video that doesn't break the bank
 

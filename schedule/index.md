@@ -3,7 +3,7 @@ title: OggCamp Schedule
 layout: default
 ---
 
-Unconferences don't have schedules! OggCamp has a mix of scheduled and unscheduled tracks, so some of the schedule information will appear during the event.
+Find the updating version of the talks schedule at: <https://joind.in/event/oggcamp-19/schedule>
 
 ## Friday 18th October
 
@@ -43,7 +43,7 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
     <tr>
       <td>11:00</td>
       <td>Scheduled Talks</td>
-      <td colspan="3">Unconference!</td>
+      <td colspan="3">Unconference! (25 minute talk slots, come and propose a talk by the schedule board)</td>
       <td>Scheduled Talks</td>
     </tr>
     <tr>
@@ -52,17 +52,17 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
     </tr>
     <tr>
       <td>13:30</td>
-      <td colspan="5">Lightning talks! (5 mins)</td>
+      <td colspan="5">Lightning talks! (5 mins per talk, sign up by the schedule board)</td>
     </tr>
     <tr>
       <td>14:00</td>
       <td>Scheduled Talks</td>
-      <td colspan="3">Unconference!</td>
-      <td>Scheduled Talks</td>
+      <td colspan="3" rowspan="2">Unconference! (25 minute talk slots, come and propose a talk by the schedule board)</td>
+      <td rowspan="2">Scheduled Talks</td>
     </tr>
     <tr>
       <td>16:00</td>
-      <td colspan="5"><strong>Podcast panel</strong> hosted by <strong>Joe Ressington</strong>. Members == Dr Laura Cowen, Joshua Lowe, Caroline Keep & Dan Lynch</td>
+      <td><strong>Podcast panel</strong> hosted by <strong>Joe Ressington</strong>. Members == Dr Laura Cowen, Joshua Lowe, Caroline Keep & Dan Lynch. <a href="https://oggcamp.org/panel">More details and submit your questions here!</a></td>
     </tr>
     <tr>
       <td>17:00</td>
@@ -95,7 +95,7 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
     <tr>
       <td>11:00</td>
       <td>Scheduled Talks</td>
-      <td colspan="2">Unconference!</td>
+      <td colspan="2">Unconference! (25 minute talk slots, come and propose a talk by the schedule board)</td>
       <td>Scheduled Talks</td>
     </tr>
     <tr>
@@ -104,12 +104,12 @@ Unconferences don't have schedules! OggCamp has a mix of scheduled and unschedul
     </tr>
     <tr>
       <td>13:30</td>
-      <td colspan="4">Lightning talks! (5 mins)</td>
+      <td colspan="4">Lightning talks! (5 mins per talk, sign up by the schedule board)</td>
     </tr>
     <tr>
       <td>14:00</td>
       <td>Scheduled Talks</td>
-      <td colspan="2">Unconference!</td>
+      <td colspan="2">Unconference! (25 minute talk slots, come and propose a talk by the schedule board)</td>
       <td>Scheduled Talks</td>
     </tr>
     <tr>
