@@ -88,6 +88,23 @@ We’ll talk about how it all started, how and why we develop the extension for 
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/laura-and-andy.jpg" class="speaker" /> | Andy: Builder of the LED disco dance floor (see OggCamp 17), and regular parkrunner. Happier playing around with electronics and power tools than with web development, but will give it a go! Andy started parkrun in 2014, has volunteered over 75 times, and run 12 PBs. He has an average parkrun location in the middle of the English Channel, and the nearest event to home that he has not yet done is in Fareham. <br /><br />Laura: A former presenter on the Ubuntu podcast and a founding organiser of OggCamp, Laura is a keen parkrunner and shares the parkrun love with anyone who'll listen (see OggCamp 15). Since starting parkrun in 2015, she's run on more than 140 Saturday mornings at more than 40 different parkrun locations in 5 different countries (nearest: Winchester; furthest: San Francisco). She has a p-index of 3.
 
+## Confronting the AdTech Leviathan
+
+Advertising technology (AdTech) systems broadcast the public’s personal data to thousands of companies who use it to track users across the internet and build sophisticated profiles. After being declared unlawful under the General Data Protection Regulation (GDPR), a reckoning is coming. Learn how the shadowy AdTech ecosystem works and how its abuses are being exposed and challenged.
+
+### Mike Morel
+
+Mike is Campaigns Manager at Open Rights Group.
+
+## Making Free Productivity Software Sustainable
+
+Productivity software like LibreOffice has long been sustained by the commercial activities of community members as well as the contributions of countless volunteers. That's also driven standards engagement, like the work around ODF. But the cloud is slowly killing the desktop support business, and volunteers aren't enough for complex, mature software. TDF has been innovating to sustain LibreOffice and ODF. This talk will describe the COSM and TDC projects which are sustaining LibreOffice, ans ask whether similar approaches might sustain other open source desktop software.
+
+### Simon Phipps [@webmink](https://twitter.com/webmink)
+
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/simonphipps01.jpg" class="speaker"> | Simon Phipps is managing director at Meshed Insights Ltd, advising companies globally on the dynamics of open communities. He was previously head of open source at Sun Microsystems and a founder of IBM’s Java business unit.<br /><br /> He is President of the Open Source Initiative (OSI), the non-profit organisation that advocates for open source software, builds bridges between open source communities and maintains the canonical list of open source licenses. He is also on the board of the Open Rights Group and of The Document Foundation. He has been widely involved in standardisation activities, including as a founding director of the Open Mobile Alliance and as one of the Sun executives sponsoring the donation of resources to OASIS to create Open Document Format (ODF). He is a Fellow of the British Computer Society as well as an Open Forum Fellow. <https://webmink.com/> |
+
 ## Lets map the world, Missing Maps and Openstreetmap
 
 We all know Wikipedia, well there is a similar project for maps, OpenStreetMap. Currently most of the western nations have good coverage on both OpenStreetMap and other maps, but when we go to the poorer and underdeveloped parts of the world there are no maps. Not on detailed scale that is actually useful.
