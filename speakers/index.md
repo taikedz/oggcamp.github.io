@@ -92,9 +92,11 @@ We’ll talk about how it all started, how and why we develop the extension for 
 
 Advertising technology (AdTech) systems broadcast the public’s personal data to thousands of companies who use it to track users across the internet and build sophisticated profiles. After being declared unlawful under the General Data Protection Regulation (GDPR), a reckoning is coming. Learn how the shadowy AdTech ecosystem works and how its abuses are being exposed and challenged.
 
-### Mike Morel
+### Mike Morel [@OpenRightsGroup](https://twitter.com/OpenRightsGroup)
 
-Mike is Campaigns Manager at Open Rights Group.
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/MikeMorel.jpg" class="speaker" /> | Michael Morel is Campaigns Manager at Open Rights Group (ORG), an organisation dedicated to protecting the ‘digital rights’ of UK residents including free expression, digital privacy, and freedom from mass surveillance. <br /><br />Before moving to London, Mike worked as a media reform advocate in Washington DC, New York City, and his native San Francisco Bay Area. He’s written and presented about digital rights issues, political polarisation and media bias. He holds an MA in Government from Johns Hopkins University in Washington DC, and BA’s in Political Science and Physical Anthropology from the University of California Santa Cruz.|
+
 
 ## Making Free Productivity Software Sustainable
 
@@ -105,6 +107,7 @@ Productivity software like LibreOffice has long been sustained by the commercial
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/simonphipps01.jpg" class="speaker"> | Simon Phipps is managing director at Meshed Insights Ltd, advising companies globally on the dynamics of open communities. He was previously head of open source at Sun Microsystems and a founder of IBM’s Java business unit.<br /><br /> He is President of the Open Source Initiative (OSI), the non-profit organisation that advocates for open source software, builds bridges between open source communities and maintains the canonical list of open source licenses. He is also on the board of the Open Rights Group and of The Document Foundation. He has been widely involved in standardisation activities, including as a founding director of the Open Mobile Alliance and as one of the Sun executives sponsoring the donation of resources to OASIS to create Open Document Format (ODF). He is a Fellow of the British Computer Society as well as an Open Forum Fellow. <https://webmink.com/> |
 
+
 ## Lets map the world, Missing Maps and Openstreetmap
 
 We all know Wikipedia, well there is a similar project for maps, OpenStreetMap. Currently most of the western nations have good coverage on both OpenStreetMap and other maps, but when we go to the poorer and underdeveloped parts of the world there are no maps. Not on detailed scale that is actually useful.
@@ -114,6 +117,7 @@ The Missing Maps project has set itself the target of getting the these parts of
 And we in the west can directly help with this, by helping to create the base maps that local people then add to and correct. By creating open map data we are making the world accessible
 
 In the talk I will show how you can directly help, and what open source technologies are doing to create the worlds open mapping resource.
+
 
 ### Stuart Ward [@stuartward](https://twitter.com/stuartward)
 
