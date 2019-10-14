@@ -129,4 +129,13 @@ Spoiler Alert - one day, you’re going to die. You may not get a blue plaque, b
 |------------------|-----------------------------------------|
 | <img src="/speakers/images/liz-terence.jpg" class="speaker" /> | Liz is a philosopher, gamer, and co-founder of OpenBenches. She likes aquariua and cocktails. Not at the same time though. <br /><br />Terence has very long hair and an increasingly large number of old mobile phones. He likes making things mobile friendly, eating vegetarian food, and writing in the third person.
 
+## Linux Outlaws: Last Time Around
+
+It’s been 5 years since Dan & Fab hung up their microphones and ended the popular Linux Outlaws podcast. Since then a lot has happened in the Free & Open Source world. Join our duo as they reunite for a one-off live show. They’ll be recapping what’s happened since the end of LO, discussing the big stories in the FOSS world right now, and speculating what might be coming down the pipeline in the future.
+
+### Fabian Scherschel [@fabsh](https://twitter.com/fabsh) and Dan Lynch [@MethodDan](https://twitter.com/methoddan)
+
+|------------------|-----------------------------------------|
+| <img src="/speakers/images/outlaws.jpg" class="speaker" /> | Fab is a freelance journalist and podcaster from Hamburg, Germany. He is a former security editor for Heise.de amongst many other things. <br /><br />Dan is a musician, podcaster, audio engineer and geek from Liverpool, UK. He regularly hosts FLOSS Weekly on the TWIT Network, does his own shows and also serves as producer for Free As In Freedom.
+
 
